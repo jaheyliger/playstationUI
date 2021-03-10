@@ -36,10 +36,10 @@ body::-webkit-scrollbar-thumb {
 
 .screen {
 	background: url('https://www.mobygames.com/images/promo/original/fac92af5bc3f4f74bf3fb172693dcf59.jpg');
-	background-size: contain;
+	background-size: cover;
 	background-repeat: no-repeat;
-	width: 1920px;
-	height: 1080px;
+	width: 100%;
+	/* height: ; */
 	overflow: hidden;
 }
 
