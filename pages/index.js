@@ -93,7 +93,7 @@ export default function Home() {
         <span className="subtitle">
           Official news from Playstation 1/28/2021
         </span>
-        <h1>Ready for a PS5 Adventrue?</h1>
+        <h1>Ready for a PS5 Adventure?</h1>
         <p>ASTRO's PLAYROOM is pre-loaded and waiting for you!
           Explore the new capabilities of PS5 and feel the world...
         </p>
